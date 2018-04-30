@@ -1,2 +1,5 @@
-*.pytest *pycache *.vscode
-archives/ venv/
+*.pytest*
+*pycache*
+*.vscode*
+archives
+venv
