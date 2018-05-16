@@ -1,5 +1,6 @@
 *.pytest*
-*pycache*
+*cache*
 *.vscode*
 archives
 venv
+.idea
